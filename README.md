@@ -39,3 +39,7 @@
 * **Integration:** Discord Webhooks API
 
 ---
+
+<img width="1894" height="923" alt="image" src="https://github.com/user-attachments/assets/7c7cc019-a4bb-4536-832d-9b1a38978c5b" />
+<img width="1892" height="920" alt="image" src="https://github.com/user-attachments/assets/973d2077-8885-44c5-9167-54622323314c" />
+<img width="381" height="834" alt="image" src="https://github.com/user-attachments/assets/e7a15465-637f-4d9f-a3b2-7daaec402d71" />
